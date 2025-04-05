@@ -1,4 +1,4 @@
-# Hey, I'm [ThisGuyNamedBased](https://github.com/ThisGuyNamedBased), a developer based in ![Czech flag](https://imgur.com/6CCE8Mv)
+# Hey, I'm [ThisGuyNamedBased](https://github.com/ThisGuyNamedBased), a developer based in ![Czech flag](https://i.imgur.com/6CCE8Mv.png)
 
 ### **I made**
 
