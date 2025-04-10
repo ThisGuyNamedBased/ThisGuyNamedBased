@@ -23,8 +23,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=thisguynamedbased&show_icons=true&locale=en&theme=dark" alt="thisguynamedbased" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thisguynamedbased&theme=dark" alt="thisguynamedbased" /></p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
